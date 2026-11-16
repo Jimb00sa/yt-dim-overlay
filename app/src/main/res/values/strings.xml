@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YT Dim Overlay</string>
+    <string name="tile_label">YT Dim</string>
+    <string name="service_description">Dims the screen around the video while YouTube or Morphe is open, for watching in bed at night. It only checks which app is in front; it does not read or collect screen content.</string>
+</resources>
